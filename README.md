@@ -9,9 +9,11 @@
 由于Github限制，文件过大无法全部上传，有兴趣可以微信索取。
 
 
-**（网盘链接如被和谐，请去群内取最新链接）**
+**网盘链接如被和谐，请去群内取最新链接**
+**二维码会不定期更新，如果过期请先star该repo，过几天再来看下。**
 
 神贴交流、变现讨论，也可以加下面的群沟通。
+
 
 ![](./assets/qun0508.png)
 
@@ -292,3 +294,9 @@ https://c4l1xfli8z.feishu.cn/docx/X2PedT3AGon4nhxuLrmcwLwgnac
     └── 维特根斯坦传天才之为责任.pdf
 
 ```
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=jiji262/tianya-docs&type=Date)](https://star-history.com/#jiji262/tianya-docs&Date)
+
+
