@@ -1,7 +1,5 @@
 # 📚 天涯神贴文档库 (tianya-docs)
 
-[![Powered by DartNode](https://dartnode.com/branding/DN-Open-Source-sm.png)](https://dartnode.com "Powered by DartNode - Free VPS for Open Source")
-
 <p align="center">
   <img src="https://img.shields.io/github/stars/jiji262/tianya-docs?style=social" alt="GitHub stars">
   <img src="https://img.shields.io/github/forks/jiji262/tianya-docs?style=social" alt="GitHub forks">
@@ -413,4 +411,4 @@ https://c4l1xfli8z.feishu.cn/docx/X2PedT3AGon4nhxuLrmcwLwgnac
 
 > **免责声明**：本仓库仅用于资料收集与个人学习，请遵守相关法律法规，尊重原作者版权。
 
-
+[![Powered by DartNode](https://dartnode.com/branding/DN-Open-Source-sm.png)](https://dartnode.com "Powered by DartNode - Free VPS for Open Source")
