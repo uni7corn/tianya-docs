@@ -51,9 +51,10 @@
 
 神贴交流、变现讨论，欢迎加入下方群聊：
 
-<p align="center">
-  <img src="./assets/qun0508.jpg" width="300" alt="交流群二维码">
-</p>
+
+<img src="./assets/fuye.jpg" alt="qun" width="360" />
+
+点击链接加入群聊【QQ群】：[https://qm.qq.com/q/GDCzZCO3mM](https://qm.qq.com/q/GDCzZCO3mM)
 
 ## 💰 神贴价值
 
